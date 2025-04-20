@@ -1,5 +1,5 @@
 ## Họ và tên:Lương Anh Quân
-## MSV: 228103103880
+## MSV: 22810310380
 ## Kết quả:
 ## Trang SplashScreen
 ![](./assets/pages/SplashScreen.jpg)
